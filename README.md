@@ -41,10 +41,12 @@ tools:ignore="AppLinkUrlError" ajoutez aussi  xmlns:tools="http://schemas.androi
 
 
 ### L'architecture générale Linphone:
-d'après [https://www.linphone.org/technical-corner/linphone](url)
-![architecture linphone](https://user-images.githubusercontent.com/25226887/158412628-f276e407-81eb-4c64-b4a9-8c164f43c662.jpg)
+d'après [https://www.linphone.org/technical-corner/linphone](url) <br /> 
+![Capture](https://user-images.githubusercontent.com/25226887/158457942-b7304afd-6933-4073-a903-54e92984639d.PNG) <br /> 
+Plus de détails:  <br />  
+![architecture linphone](https://user-images.githubusercontent.com/25226887/158412628-f276e407-81eb-4c64-b4a9-8c164f43c662.jpg) <br /> 
 
-
+#### Explication détaillé:  <br /> 
 
 Cette l'implémentation logicielle peut être utilisée pour communiquer librement avec des personnes sur Internet, avec la messagerie instantanée vocale, vidéo et textuelle.<br /> Linphone utilise le protocole SIP, un standard ouvert pour la téléphonie Internet, pour la communication . Et il est disponible pour ordinateurs de bureau exécutant Linux, Windows et MacOSX ou des smartphones fonctionnant sous Android et iOS. <br />  Dans cette cas nous intéressons sur L'application Android. <br />
 Puisque Linphone peut adopter différents mécanismes de codec et prendre en charge divers systèmes d'exploitation, nous utilisons Linphone sur des systèmes intégrés pour mettre en œuvre le service de diffusion VoIP.<br />
