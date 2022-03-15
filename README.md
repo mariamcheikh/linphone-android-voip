@@ -35,12 +35,12 @@ tools:ignore="AppLinkUrlError" ajoutez aussi  xmlns:tools="http://schemas.androi
 (Veuillez trouver les captures d'écran de l'application en cours d'exécution dans le dossier "results") :
 
 
-### L'architecture génégrale d'une application voip :
+### L'architecture générale d'une application voip :
 ( ce diagrame 
 ![architecture](https://user-images.githubusercontent.com/25226887/158408031-2fceac87-0b06-42ad-9041-a83c669b947f.jpg)
 
 
-### L'architecture génégrale Linphone:
+### L'architecture générale Linphone:
 d'après [https://www.linphone.org/technical-corner/linphone](url)
 ![architecture linphone](https://user-images.githubusercontent.com/25226887/158412628-f276e407-81eb-4c64-b4a9-8c164f43c662.jpg)
 
